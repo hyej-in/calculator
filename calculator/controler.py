@@ -164,7 +164,7 @@ def log10(num):
 
 
 def sqrt(num):
-    return num * 0.5
+    return num ** 0.5
 
 
 class plot2D:
