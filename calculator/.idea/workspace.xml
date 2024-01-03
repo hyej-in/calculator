@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35ef0b14-2abe-43bf-84a0-c4071173a138" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/conctroler.py" />
+        <option value="D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/backends/_backend_tk.py" />
+        <option value="D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/backend_bases.py" />
+        <option value="$PROJECT_DIR$/controler3d.py" />
+        <option value="$PROJECT_DIR$/controler2d.py" />
+        <option value="$PROJECT_DIR$/view.py" />
+        <option value="$PROJECT_DIR$/viewMatrix.py" />
+        <option value="$PROJECT_DIR$/LatexMatrix.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/controler.py" />
+        <option value="$PROJECT_DIR$/viewPlot.py" />
+        <option value="$PROJECT_DIR$/Latex.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="2Ypa3GfQ3lJ2iyuIiW8sV91KF71" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="calculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\PyCharm 2019.1.3\Projects\calculator" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Latex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Latex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="controler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="viewPlot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/viewPlot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.controler" />
+        <item itemvalue="Python.viewPlot" />
+        <item itemvalue="Python.Latex" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35ef0b14-2abe-43bf-84a0-c4071173a138" name="Default Changelist" comment="" />
+      <created>1561011407733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561011407733</updated>
+      <workItem from="1561011408889" duration="11937000" />
+      <workItem from="1561078760569" duration="21574000" />
+      <workItem from="1561165480733" duration="9806000" />
+      <workItem from="1561184214639" duration="1858000" />
+      <workItem from="1561186217972" duration="5767000" />
+      <workItem from="1561336175496" duration="11946000" />
+      <workItem from="1561358960507" duration="19023000" />
+      <workItem from="1561421810746" duration="29778000" />
+      <workItem from="1561510106458" duration="31155000" />
+      <workItem from="1561596231001" duration="10810000" />
+      <workItem from="1561616234236" duration="11594000" />
+      <workItem from="1561632965400" duration="3407000" />
+      <workItem from="1561683008153" duration="2967000" />
+      <workItem from="1561701963081" duration="7912000" />
+      <workItem from="1561767380375" duration="15340000" />
+      <workItem from="1561854700667" duration="4477000" />
+      <workItem from="1561943613372" duration="611000" />
+      <workItem from="1561951737535" duration="1088000" />
+      <workItem from="1561961279074" duration="10020000" />
+      <workItem from="1561979163259" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="211546000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47826087" visible="true" weight="0.15204236" />
+      <window_info id="Structure" order="1" sideWeight="0.5217391" side_tool="true" weight="0.34065935" />
+      <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.13388805" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.24386252" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39443535" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13388805" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39443535" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>self.frame_expression</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>frame_expression</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>9</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/sympy/core/cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler3d.py" />
+    <entry file="file://$PROJECT_DIR$/controler2d.py" />
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/sympy/functions/elementary/exponential.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#1216#3517#0" />
+            <element signature="e#3550#5541#0" />
+            <element signature="e#5568#15099#0" />
+            <element signature="e#15127#25317#0" />
+            <element signature="e#15457#15653#0" />
+            <element signature="e#15698#15791#0" />
+            <element signature="e#15853#18738#0" />
+            <element signature="e#18775#18877#0" />
+            <element signature="e#25350#28531#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/sympy/core/symbol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/mathtext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="2602" selection-start-line="2602" selection-end-line="2602" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-571512584/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="169" column="7" lean-forward="true" selection-start-line="169" selection-start-column="7" selection-end-line="169" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/backends/backend_agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="390" selection-start-line="390" selection-end-line="390" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/backends/backend_tkagg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#450#584#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="1704" selection-start-line="1704" selection-end-line="1704" />
+          <folding>
+            <element signature="e#16461#17233#0" />
+            <element signature="e#17266#17910#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.MainWindow">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.MainWindow</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.MainWindow</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="172.0" y="183.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.Frame_1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.Frame_1</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.Frame_1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="253.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.FramePlot">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.FramePlot</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.FramePlot</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FramePlot.uml" />
+    <entry file="file://$PROJECT_DIR$/Frame_1.uml" />
+    <entry file="uml://Python/viewPlot.FrameCtrls">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.FrameCtrls</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.FrameCtrls</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="253.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.FrameExpression">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.FrameExpression</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.FrameExpression</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.FrameButtons">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.FrameButtons</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.FrameButtons</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.SubFrame">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.SubFrame</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.SubFrame</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.ButtonFunc">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.ButtonFunc</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.ButtonFunc</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5778816199376947" x="388.0" y="311.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.ButtonNums">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.ButtonNums</OriginalElement>
+          <nodes>
+            <node x="" y="">tkinter.Place</node>
+            <node x="" y="">tkinter.BaseWidget</node>
+            <node x="" y="">tkinter.Grid</node>
+            <node x="" y="">tkinter.Pack</node>
+            <node x="" y="">tkinter.Widget</node>
+            <node x="" y="">tkinter.Misc</node>
+            <node x="" y="">tkinter.ttk.Widget</node>
+            <node x="" y="">tkinter.ttk.Button</node>
+            <node x="" y="">object</node>
+            <node x="" y="">viewPlot.ButtonNums</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5778816199376947" x="388.0" y="311.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.MenuTop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.MenuTop</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.MenuTop</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewPlot.ToolTip">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.ToolTip</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.ToolTip</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8244444444444444" x="187.0" y="215.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/controler.ZoomPan">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>controler.ZoomPan</OriginalElement>
+          <nodes>
+            <node x="" y="">controler.ZoomPan</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="117.0" y="71.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/controler.plot2D">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>controler.plot2D</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">controler.plot2D</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-201.0" y="126.0" />
+          <SelectedNodes>
+            <node>controler.plot2D</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ButtonNums.uml" />
+    <entry file="file://$PROJECT_DIR$/ButtonFunc.uml" />
+    <entry file="uml://Python/controler.plot3D">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>controler.plot3D</OriginalElement>
+          <nodes>
+            <node x="" y="">controler.plot3D</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="111.0" y="71.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/LatexMatrix.LatexMatrix">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>LatexMatrix.LatexMatrix</OriginalElement>
+          <nodes>
+            <node x="" y="">LatexMatrix.LatexMatrix</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="153.0" y="71.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/Latex.stringLatex">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>Latex.stringLatex</OriginalElement>
+          <nodes>
+            <node x="" y="">Latex.stringLatex</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="117.0" y="71.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewMatrix.Frame_2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewMatrix.Frame_2</OriginalElement>
+          <nodes>
+            <node x="" y="">viewMatrix.Frame_2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewMatrix.FrameMatrix">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewMatrix.FrameMatrix</OriginalElement>
+          <nodes>
+            <node x="" y="">viewMatrix.FrameMatrix</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewMatrix.FrameCtrlsM">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewMatrix.FrameCtrlsM</OriginalElement>
+          <nodes>
+            <node x="" y="">viewMatrix.FrameCtrlsM</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewMatrix.FrameButtons">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewMatrix.FrameButtons</OriginalElement>
+          <nodes>
+            <node x="" y="">viewMatrix.FrameButtons</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="263.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/viewMatrix.ButtonMatrix">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewMatrix.ButtonMatrix</OriginalElement>
+          <nodes>
+            <node x="" y="">viewMatrix.ButtonMatrix</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5778816199376947" x="388.0" y="311.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/ButtonFunc.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.ButtonFunc</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.ButtonFunc</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9778816199376946" x="238.0" y="296.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/FrameCtrls.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.FrameCtrls</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.FrameCtrls</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6794871794871795" x="392.0" y="253.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/FrameButtons.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>viewPlot.FrameButtons</OriginalElement>
+          <nodes>
+            <node x="" y="">viewPlot.FrameButtons</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.679487179487182" x="166.0" y="30.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="181" column="18" lean-forward="true" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#246#629#0" />
+            <element signature="e#662#942#0" />
+            <element signature="e#736#942#0" />
+            <element signature="e#975#3976#0" />
+            <element signature="e#1180#2253#0" />
+            <element signature="e#2303#3544#0" />
+            <element signature="e#3580#3712#0" />
+            <element signature="e#3756#3976#0" />
+            <element signature="e#4010#5755#0" />
+            <element signature="e#5934#6217#0" />
+            <element signature="e#6253#6596#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LatexMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#179#534#0" />
+            <element signature="e#566#874#0" />
+            <element signature="e#921#3241#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/sympy/core/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="1183" column="49" selection-start-line="1183" selection-start-column="49" selection-end-line="1183" selection-end-column="49" />
+          <folding>
+            <element signature="e#13461#13473#0" />
+            <element signature="e#13536#14884#0" />
+            <element signature="e#14944#15612#0" />
+            <element signature="e#15663#16250#0" />
+            <element signature="e#16304#16500#0" />
+            <element signature="e#16544#18965#0" />
+            <element signature="e#38976#49161#0" />
+            <element signature="e#79497#81219#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/backends/_backend_tk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="626" selection-start-line="626" selection-end-line="626" />
+          <folding>
+            <element signature="e#21122#21354#0" />
+            <element signature="e#21394#21448#0" />
+            <element signature="e#21488#21507#0" />
+            <element signature="e#21571#21833#0" />
+            <element signature="e#21873#21988#0" />
+            <element signature="e#22032#22181#0" />
+            <element signature="e#22253#22566#0" />
+            <element signature="e#22599#22822#0" />
+            <element signature="e#22861#23818#0" />
+            <element signature="e#23862#24209#0" />
+            <element signature="e#24253#26030#0" />
+            <element signature="e#26071#26144#0" />
+            <element signature="e#26176#26306#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python_3.7.2/Lib/site-packages/matplotlib/backend_bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="2738" column="27" selection-start-line="2738" selection-start-column="27" selection-end-line="2738" selection-end-column="27" />
+          <folding>
+            <element signature="e#91487#91539#0" />
+            <element signature="e#91576#91707#0" />
+            <element signature="e#91771#91914#0" />
+            <element signature="e#91957#91985#0" />
+            <element signature="e#92025#92163#0" />
+            <element signature="e#92200#92326#0" />
+            <element signature="e#92365#93054#0" />
+            <element signature="e#93098#93714#0" />
+            <element signature="e#95145#95229#0" />
+            <element signature="e#95410#95693#0" />
+            <element signature="e#95926#95974#0" />
+            <element signature="e#96016#96974#0" />
+            <element signature="e#97017#98561#0" />
+            <element signature="e#98614#98672#0" />
+            <element signature="e#98726#98779#0" />
+            <element signature="e#98817#99247#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="70" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
+          <caret line="471" column="69" selection-start-line="471" selection-start-column="56" selection-end-line="471" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#377#926#0" />
+            <element signature="e#955#1488#0" />
+            <element signature="e#1092#1488#0" />
+            <element signature="e#1519#1762#0" />
+            <element signature="e#1593#1762#0" />
+            <element signature="e#1794#3264#0" />
+            <element signature="e#2003#2472#0" />
+            <element signature="e#2506#2932#0" />
+            <element signature="e#2979#3030#0" />
+            <element signature="e#3301#3587#0" />
+            <element signature="e#3375#3587#0" />
+            <element signature="e#3621#13622#0" />
+            <element signature="e#3787#4182#0" />
+            <element signature="e#4214#4267#0" />
+            <element signature="e#4299#4450#0" />
+            <element signature="e#4484#4729#0" />
+            <element signature="e#4769#5024#0" />
+            <element signature="e#5074#6636#0" />
+            <element signature="e#6678#6948#0" />
+            <element signature="e#6999#8478#0" />
+            <element signature="e#8510#8563#0" />
+            <element signature="e#8595#8746#0" />
+            <element signature="e#8780#9025#0" />
+            <element signature="e#9065#9320#0" />
+            <element signature="e#9362#9632#0" />
+            <element signature="e#9682#11246#0" />
+            <element signature="e#11297#12776#0" />
+            <element signature="e#12828#13622#0" />
+            <element signature="e#13652#13831#0" />
+            <element signature="e#13991#14243#0" />
+            <element signature="e#14279#16517#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5760">
+          <caret line="270" column="23" selection-start-line="270" selection-start-column="23" selection-end-line="270" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1054#3127#0" />
+            <element signature="e#2201#2677#0" />
+            <element signature="e#2712#2741#0" />
+            <element signature="e#2754#2781#0" />
+            <element signature="e#3534#4357#0" />
+            <element signature="e#5873#5898#0" />
+            <element signature="e#5920#5937#0" />
+            <element signature="e#6093#6110#0" />
+            <element signature="e#6142#6715#0" />
+            <element signature="e#8327#9268#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5724">
+          <caret line="269" column="19" selection-end-line="392" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1054#3127#0" />
+            <element signature="e#2201#2677#0" />
+            <element signature="e#2712#2741#0" />
+            <element signature="e#2754#2781#0" />
+            <element signature="e#3534#4357#0" />
+            <element signature="e#5873#5898#0" />
+            <element signature="e#5920#5937#0" />
+            <element signature="e#6093#6110#0" />
+            <element signature="e#6142#6715#0" />
+            <element signature="e#8327#9268#0" />
+            <element signature="e#9585#10201#0" />
+            <element signature="e#10222#13745#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Latex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="218" column="33" lean-forward="true" selection-start-line="218" selection-start-column="33" selection-end-line="218" selection-end-column="33" />
+          <folding>
+            <element signature="e#350#652#0" />
+            <element signature="e#702#973#0" />
+            <element signature="e#1027#1298#0" />
+            <element signature="e#1353#1664#0" />
+            <element signature="e#1718#1902#0" />
+            <element signature="e#1967#2155#0" />
+            <element signature="e#2214#2430#0" />
+            <element signature="e#7304#7816#0" />
+            <element signature="e#8375#10774#0" />
+            <element signature="e#10795#12472#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
